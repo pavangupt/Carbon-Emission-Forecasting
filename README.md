@@ -5,9 +5,9 @@ From a company perspective, bringing greater transparency to carbon intensity ca
        Time Series Analysis is the way of studying the characteristics of the response variable with respect to time, as the independent variable. To estimate the target variable in the name of predicting or forecasting, use the time variable as the point of reference. In this article we will discuss in detail TSA Objectives, Assumptions, Components (stationary, and Non- stationary). Along with the TSA algorithm and specific use cases in Python.
         This notebook explores how to retrieve times series dataset, visualizing visualizaing based on trends, how to transform dataset into times series, testing if the time series is stationary or not using Dickey-Fuller test statistic methods, how to transform time series to stationary, how to find optimal parameters to build seasonal Autoregressive Integrated Moving Average (SARIMA) model using grid search method, diagnosing time series prediction, validating the predictive power, forecasting 10 year future CO2 emission from power generation using natural gas.
      
-** TABLE OF CONTENTS:-
+*** TABLE OF CONTENTS:-
     
-***    1. INTRODUCTION
+**    1. INTRODUCTION
 
        2. IMPORTING NECESSARY LIBRARIES
        
