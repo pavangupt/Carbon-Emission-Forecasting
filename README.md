@@ -7,23 +7,40 @@ From a company perspective, bringing greater transparency to carbon intensity ca
      
 **TABLE OF CONTENTS:-
     
-***    1__ INTRODUCTION
+***    1. INTRODUCTION
+
        2. IMPORTING NECESSARY LIBRARIES
+       
        3. DATA PREPROCESSING
+       
         3.1 HANDLING MISSING VALUES
+        
         3.2 HANDLING INCORRECT DATATYPES
+        
         3.3 VISUALIZING THE PLOT TRENDS
+        
        4. Coal Electric power sector CO2 Emmission Analysis
+       
        5. CHECKING FOR STATIONARITY
+       
         5.2 HANDLING SEASONALITY- Differencing
+        
         5.3 Eliminating trend and seasonality: Decomposing
+        
        6. AUTOREGRESSIVE MODEL
+       
        7. Plotting the ACF and PACF- Finding the optimal parameter
+       
        8. ARIMA MODEL
+       
         8.1 ARIMA MODEL- EVALUATION
+        
        9. SARIMAX MODEL
+       
         9.1 Grid Search - To find the optimal p,d,q value
+        
         9.2 Validation Prediction
+        
        10. FORECASTING
        
        
