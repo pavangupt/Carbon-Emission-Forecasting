@@ -1,4 +1,6 @@
 # Carbon-Emission-Analysis
+![image](https://user-images.githubusercontent.com/91775600/154309093-251a23e3-b6ac-4ada-a40e-546c2a30b3fa.png)
+
 From a company perspective, bringing greater transparency to carbon intensity can help better manage emissions, and analyze business risk and potential opportunity. 
 
 ## INTRODUCTION:- 
