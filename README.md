@@ -7,7 +7,7 @@ From a company perspective, bringing greater transparency to carbon intensity ca
      
 *** TABLE OF CONTENTS:-
     
-**    1. INTRODUCTION
+       1. INTRODUCTION
 
        2. IMPORTING NECESSARY LIBRARIES
        
