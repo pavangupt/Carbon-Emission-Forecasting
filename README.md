@@ -7,7 +7,7 @@ From a company perspective, bringing greater transparency to carbon intensity ca
      
 **TABLE OF CONTENTS:-
     
-***    1. INTRODUCTION
+***    1__ INTRODUCTION
        2. IMPORTING NECESSARY LIBRARIES
        3. DATA PREPROCESSING
         3.1 HANDLING MISSING VALUES
